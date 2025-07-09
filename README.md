@@ -20,11 +20,3 @@ Test your knowledge across various question types:
 
 ✨ [Click here to play](https://sct-wd-3.onrender.com)
 
----
-
-## 🛠️ How to Run Locally
-
-```bash
-git clone https://github.com/your-username/harry-potter-quiz.git
-cd harry-potter-quiz
-open index.html  # or just double-click index.html
